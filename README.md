@@ -1,4 +1,4 @@
 # my-first-repo
 A tidy repo to show in class
-
-hhh。。。
+ 
+This is my first repo in info201
